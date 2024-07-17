@@ -1,5 +1,5 @@
 <h3>Hello, I'm Bernardo Silva!</h3>
-<p>Software Development Intern @ Accenture</p>
+<p>Software Engineering Analyst at Accenture</p>
 
 ##
 
