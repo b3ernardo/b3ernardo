@@ -1,5 +1,5 @@
 <h3>Hello, I'm Bernardo Silva!</h3>
-<p>I'm a Control and Automation Engineering student at the Federal University of Minas Gerais and an Industrial Automation Technician at the Federal Institute of Minas Gerais. Currently, I work as a Software Engineering Analyst at Accenture.</p>
+<p>I'm a Control and Automation Engineering student at the Federal University of Minas Gerais and an Industrial Automation Technician at the Federal Institute of Minas Gerais. I work as a Software Engineering Analyst at Accenture, developing web applications for the industrial sector and focusing on real-time systems and process automation.</p>
 
 ##
 
