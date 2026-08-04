@@ -29,6 +29,6 @@ My academic interests include **Computational Intelligence, Machine Learning, an
  
 <div>
   <h3>Contacts</h3>
-  <a href = "mailto:ybernardo2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:desouzasilva.be@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bernardo-de-souza-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
